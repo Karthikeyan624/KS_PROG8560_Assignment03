@@ -10,11 +10,12 @@
 
   You can use the below link to work and integrate with shopping application
   
-**How do I get set up?:**
+**How do I get set up application?:**
 
-  Install Microsoft Visual studio code Use javascript files to edit and create the application Download all html and css
-  codes to setup design Build the application and run the software for shopping cart application License .
-  This project is licensed under the MIT License.
+  1. Install Microsoft Visual studio code 
+  2. Use javascript files to edit and create the application 
+  3. Download all html and css codes to setup design 
+  4. Build the application and run the software 
   
 **Application Description:**
 
