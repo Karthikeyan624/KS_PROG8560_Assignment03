@@ -1,8 +1,8 @@
-README:
+**README:**
 
   The below Readme documents help in creating and setting up the application using javascript
   
-Purpose of this repository?:
+**Purpose of this repository?:**
 
   This respository access control helps in controlling total project only to the authorized users my granting the permission to only team memmbers working in the application.
 
@@ -10,13 +10,13 @@ Purpose of this repository?:
 
   You can use the below link to work and integrate with shopping application
   
-How do I get set up?:
+**How do I get set up?:**
 
   Install Microsoft Visual studio code Use javascript files to edit and create the application Download all html and css
   codes to setup design Build the application and run the software for shopping cart application License .
   This project is licensed under the MIT License.
   
-Application Description:
+**Application Description:**
 
   A chatbot written in es6 and vs6 for twilio and testing on the web. The important files are index.js and game.js.
 
@@ -24,11 +24,11 @@ Application Description:
 
   You will make a choose your own adventure for a haunted house presented as a Twilio chatbot. 
   
-Author:
+**Author:**
 
-  Karthikeyan Shanmugam (8740880)
+  **Karthikeyan Shanmugam (8740880)**
 
-Copyright (c) <2021> <copyright Karthikeyan Shanmugam>
+**Copyright (c) <2021> <copyright Karthikeyan Shanmugam>**
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
